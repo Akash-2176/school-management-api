@@ -1,0 +1,12 @@
+# Ignore system files
+$Recycle.Bin/
+Program Files/
+ProgramData/
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+desktop.ini
+inetpub/
+PerfLogs/
+node_modules/
